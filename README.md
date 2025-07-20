@@ -1,2 +1,5 @@
 # myFirstRepository
-Learning how to use GitHyb
+
+##Learning to use GitHub
+
+I am just learning how to use github right now.
